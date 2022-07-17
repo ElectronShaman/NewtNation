@@ -1,0 +1,24 @@
+Will be using x3dom as the player side platform.
+All resources combined will weigh less than a gigabyte.
+Chat/Text and avatar action signals will be routed through...
+... (suggestions,  anyone?)
+
+Player inventory, progress and experience stats will be
+stored in cookies.
+
+To increase variety, many models will be mix and match,
+auto generated from simpler components.
+
+Very low poly, but not blocky.
+
+Already have a pile of ccby resources from sketchfab.
+A lot of code I wrote myself, javascript,
+mostly abstracted but some adjustments will be needed
+to transition from ancient vrml to x3d.
+
+need a simple landscape loader or generator.
+x3dom has built in terrain following.
+
+No deadline, no rush.
+This is a project for nostalgic purposes and creative expression.
+Code should be kept as small, simple, and obvious as possible.
